@@ -14,7 +14,7 @@ const IntroPage = () => {
           <Image src={logo} alt='logo' width={100} height={97} className='lg:w-[120px] lg:h-[117px]' />
           <div className='w-full lg:w-[90%]'>
             <p className='text-[18px] lg:text-[22px] text-[#4A4865] text-center'>
-              Barber is a person whose occupation is mainly to cut, dress, groom, style, and shave men's and boys' hair. A barber's place of work is known as a "barbershop" or a "barber's". Barbershops are also places of social interaction and public discourse. In some instances, barbershops are also public forums.
+              Barber is a person whose occupation is mainly to cut, dress, groom, style, and shave men&apos;s and boy&apos;s hair. A barber&apos;s place of work is known as a &#8222;barbershop&#8222; or a &#8222;barber&apos;s&#8222;. Barbershops are also places of social interaction and public discourse. In some instances, barbershops are also public forums.
             </p>
           </div>
           <button className='w-[300px] lg:w-[365px] h-12 lg:h-16 bg-[#D9A536] text-lg lg:text-2xl text-white mt-5'>MORE ABOUT US</button>

@@ -22,7 +22,7 @@ const Footer = () => {
   };
 
   return (
-    <div className='flex flex-col md:flex-row w-screen h-auto lg:h-[350px]' // Change to flex-col on small screens
+    <div className='flex flex-col md:flex-row w-screen h-auto lg:h-[350px]' 
       style={{
         backgroundImage: `url(${bg.src})`,
         backgroundSize: 'cover',
@@ -42,7 +42,7 @@ const Footer = () => {
         />
         <button className='w-36 h-8 text-white border-2 border-white rounded-full bg-[#D9A536]'>Subscribe</button>
       </div>
-      <div className='flex flex-row w-full md:w-2/4 items-center flex-wrap justify-evenly'> {/* Allow wrapping of columns on smaller screens */}
+      <div className='flex flex-row w-full md:w-2/4 items-center flex-wrap justify-evenly'> 
         <div className='flex flex-col w-1/2 md:w-1/2 text-white items-center'>
           <div className='flex flex-col items-center'>
             <h1 className='text-3xl'>QUICK LINKS</h1>

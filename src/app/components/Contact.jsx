@@ -43,7 +43,7 @@ const Contact = () => {
             </h2>
           </div>
           <div className='flex flex-col lg:flex-row w-full items-center justify-center gap-4 lg:gap-0'>
-            <div className='flex flex-col w-full lg:w-1/2 h-[700px] lg:h-full gap-4 lg:gap-8 items-center'>
+            <div className='flex flex-col w-full lg:w-1/2  gap-4 lg:gap-8 items-center'>
               <input 
                 type='text'
                 placeholder='Name'

@@ -13,7 +13,7 @@ const Blog = () => {
   return (
     <div className='w-screen min-h-screen flex flex-col items-center mt-14 px-4' id='blog'>
       <h1 className='text-4xl text-[#D9A536] text-center'>NEWS FROM BLOG</h1>
-      <h1 className='text-5xl text-[#4A4845] font-semibold text-center'>What's On Our Mind</h1>
+      <h1 className='text-5xl text-[#4A4845] font-semibold text-center'>What&apos;s On Our Mind</h1>
       <Image src={logo} alt='logo' width={390} />
 
       {/* Blog Articles */}

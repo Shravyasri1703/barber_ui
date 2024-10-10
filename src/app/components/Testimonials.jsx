@@ -4,7 +4,6 @@ import background from '@/public/TestimonialBg.png'
 import p1 from '@/public/Person1.png'
 import p2 from  '@/public/Person2.png'
 import comma from '@/public/comma.png'
-import './animate.css'
 import React from 'react'
 
 const Testimonials = () => {
